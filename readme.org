@@ -1,0 +1,8 @@
+* Bad Icons
+  "convert -density %d -background none -scale %d%% %s %s"
+  [[./screenshots/UsingBadIcons1.png]]
+  [[./screenshots/UsingBadIcons2.png]]
+
+* Good Icons
+  "convert -depth 8 -density %d -background transparent -scale %d%% %s PNG32:%s"
+  [[./screenshots/UsingGood.png]]
