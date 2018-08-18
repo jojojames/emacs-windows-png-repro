@@ -5,4 +5,4 @@
 
 * Good Icons
   "convert -depth 8 -density %d -background transparent -scale %d%% %s PNG32:%s"
-  [[./screenshots/UsingGood.png]]
+  [[./screenshots/UsingGoodIcons.png]]
